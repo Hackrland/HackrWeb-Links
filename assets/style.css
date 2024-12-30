@@ -9,7 +9,7 @@
 
 body {
     background-color: #11111b;
-    color: #cba6f7;
+    color: #b4befe;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -217,6 +217,5 @@ footer {
 .homepage-button img {
   width: 80px;
   height: 80px;
-  border-radius: 30px;
-  border: 2px solid #cba6f7;
+  border: none
 }
